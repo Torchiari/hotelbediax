@@ -1,6 +1,6 @@
 # HotelBediaX - Destinations Management Module
 
-![HotelBediaX Logo]
+![HotelBediaX]
 
 Este proyecto es una **aplicación web para la gestión de destinos turísticos**, desarrollada para HotelBediaX, uno de los principales clientes ficticios en el sector hotelero.  
 La aplicación permite crear, leer, actualizar y eliminar destinos, así como filtrarlos y paginarlos. Está diseñada como un **Single Page Application (SPA)** con React, y preparada para manejar un gran volumen de datos.
