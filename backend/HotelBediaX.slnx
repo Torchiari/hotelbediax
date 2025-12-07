@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HotelBediaX.Api/HotelBediaX.Api.csproj" />
+    <Project Path="src/HotelBediaX.Core/HotelBediaX.Core.csproj" />
+    <Project Path="src/HotelBediaX.Infrastructure/HotelBediaX.Infrastructure.csproj" />
+  </Folder>
+</Solution>
