@@ -61,7 +61,17 @@ git clone https://github.com/tu-usuario/hotelbediax.git
 cd hotelbediax
 ```
 
-### 2️⃣ Frontend
+### 2️⃣ Backend
+
+``` 
+cd backend/src/HotelBediaX.Api
+dotnet restore
+dotnet watch run
+```
+Esto levantará la API REST en .NET 7.
+Swagger para probar los endpoints: http://localhost:5113/swagger
+
+### 3️⃣ Frontend
 ```
 cd frontend
 npm install
@@ -70,18 +80,6 @@ npm run dev
 Esto arrancará el frontend de React.
 Por defecto estará disponible en: http://localhost:5173/
 Si el puerto difiere, revisa la salida de la terminal de Vite.
-
-
-### 3️⃣ Backend
-``` 
-cd ../backend
-dotnet restore
-dotnet watch run
-```
-Esto levantará la API REST en .NET 7.
-Swagger para probar los endpoints: http://localhost:5113/swagger
-
-
 
 ### 4️⃣ Configuración (opcional)
 Actualmente la API está simulada, por lo que no requiere base de datos.  
