@@ -66,22 +66,22 @@ cd hotelbediax
 cd frontend
 npm install
 npm run dev
-
+```
 Esto arrancará el frontend de React.
 Por defecto estará disponible en: http://localhost:5173/
 Si el puerto difiere, revisa la salida de la terminal de Vite.
 
-```
+
 ### 3️⃣ Backend
 ``` 
 cd ../backend
 dotnet restore
 dotnet watch run
-
+```
 Esto levantará la API REST en .NET 7.
 Swagger para probar los endpoints: http://localhost:5113/swagger
 
-```
+
 
 ### 4️⃣ Configuración (opcional)
 Actualmente la API está simulada, por lo que no requiere base de datos.  
@@ -125,9 +125,11 @@ Este proyecto incluye tests para **backend** y **frontend**.
 - Comprobar entidades, servicios y lógica.
 
 **Ejecutar:**
+```
 cd backend
 dotnet restore
 dotnet test
+```
 
 ### Frontend (React)
 
@@ -135,9 +137,11 @@ dotnet test
 - Verifican componentes y rutas.
 
 **Ejecutar:**
+```
 cd frontend
 npm install
 npm run test
+```
 
 ---
 
