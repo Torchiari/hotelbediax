@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { createDestination, updateDestination, deleteDestination } from "../api/destinations";
 import DestinationFormModal from "./DestinationFormModal";
-
+import toast from "react-hot-toast";
 
 export default function DestinationsTable({
   items: initialItems,
@@ -25,32 +25,47 @@ export default function DestinationsTable({
   }, [initialItems]);
 
   async function handleCreate(payload: any) {
-    await createDestination(payload);
-    setModalOpen(false);
-    onRefresh();
+    try {
+      await createDestination(payload);
+      toast.success("Destino creado correctamente");
+      setModalOpen(false);
+      onRefresh();
+    } catch (err) {
+      toast.error("Error al crear el destino");
+    }
   }
 
   async function handleUpdate(payload: any) {
     if (!editing) return;
 
-    await updateDestination(editing.id, payload);
+    try {
+      await updateDestination(editing.id, payload);
 
-    setItems(prev =>
-      prev.map(item =>
-        item.id === editing.id
-          ? { ...item, ...payload, updatedAt: new Date().toISOString() }
-          : item
-      )
-    );
+      setItems(prev =>
+        prev.map(item =>
+          item.id === editing.id
+            ? { ...item, ...payload, updatedAt: new Date().toISOString() }
+            : item
+        )
+      );
 
-    setModalOpen(false);
-    setEditing(null);
+      toast.success("Destino actualizado");
+      setModalOpen(false);
+      setEditing(null);
+    } catch (err) {
+      toast.error("Error al actualizar el destino");
+    }
   }
 
   async function handleDelete(id: string) {
     if (!confirm("¿Eliminar destino?")) return;
-    await deleteDestination(id);
-    onRefresh();
+    try {
+      await deleteDestination(id);
+      toast.success("Destino eliminado");
+      onRefresh();
+    } catch (err) {
+      toast.error("Error al eliminar destino");
+    }
   }
 
   return (

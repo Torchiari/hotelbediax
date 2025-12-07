@@ -1,11 +1,3 @@
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.csproj.AssemblyReference.cache
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.AssemblyInfoInputs.cache
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.AssemblyInfo.cs
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.csproj.CoreCompileInputs.cache
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\appsettings.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\HotelBediaX.Api.staticwebassets.endpoints.json
@@ -27,6 +19,15 @@ C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\HotelBediaX.Infrastructure.dll
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\HotelBediaX.Core.pdb
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\bin\Debug\net10.0\HotelBediaX.Infrastructure.pdb
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.csproj.AssemblyReference.cache
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.AssemblyInfoInputs.cache
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.AssemblyInfo.cs
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.csproj.CoreCompileInputs.cache
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\HotelBediaX.Api.sourcelink.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

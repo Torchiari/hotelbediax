@@ -24,7 +24,6 @@ export default function DestinationsPage() {
   const [page, setPage] = useState<number>(1);
   const pageSize = 50;
 
-  // Usamos directamente page, q y filters
   const { data, isLoading, isError } = useDestinations({
     q,
     page,

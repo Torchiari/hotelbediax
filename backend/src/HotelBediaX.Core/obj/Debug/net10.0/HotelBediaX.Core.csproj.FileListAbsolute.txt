@@ -5,6 +5,7 @@ C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.AssemblyInfoInputs.cache
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.AssemblyInfo.cs
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.csproj.CoreCompileInputs.cache
+C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.sourcelink.json
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.dll
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\refint\HotelBediaX.Core.dll
 C:\Users\Danel\Desktop\hotelbediax\backend\src\HotelBediaX.Core\obj\Debug\net10.0\HotelBediaX.Core.pdb

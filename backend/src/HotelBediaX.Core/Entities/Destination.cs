@@ -4,9 +4,9 @@ namespace HotelBediaX.Core.Entities
 {
     public class Destination
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; } = null!;
-        public string Country { get; set; } = null!;
+        public Guid Id { get; set; } = Guid.NewGuid();
+        public string Name { get; set; } = string.Empty;
+        public string Country { get; set; } = string.Empty;
         public string Region { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public decimal Rating { get; set; } = 0m;
